@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/GO Map - 3D Map For AR Gaming/Demo/3D Demo scene.unity
+  isLoaded: 1
+  isActive: 1
